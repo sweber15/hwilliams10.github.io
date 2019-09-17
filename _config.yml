@@ -1,20 +1,16 @@
 # Site settings
 title: Zetsu
 email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
-baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+description: My personal blog
+url: "http://hwilliams10.github.io"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  name      : 'Holly Williams'
+  email     : hwilliams@srk.com
+  facebook  : http://facebook.com/hrourke
+  instagram : http://twitter.com/holly.rourke
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+github: https://github.com/hwilliams10
 
 paginate: 2
 comments: true
